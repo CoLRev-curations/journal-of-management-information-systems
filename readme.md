@@ -11,3 +11,6 @@ To install run
 ```
 colrev environment --install geritwagner/journal-of-management-information-systems 
 ```
+
+DOI resource not found:
+10.1080/07421222.2018.1523603
