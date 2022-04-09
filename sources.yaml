@@ -13,3 +13,11 @@
   search_parameters: 
     - endpoint: crossref
       params: SCOPE journal_issn='0742-1222'
+- filename: pdfs.bib
+  search_type: FEED
+  source_name: JMIS
+  source_url: pdfs
+  search_parameters:
+  - endpoint: pdfs_directory
+    params: SCOPE path='pdfs' WITH journal='Journal of Management Information Systems' AND sub_dir_pattern='volume_number'
+  comment: NA
