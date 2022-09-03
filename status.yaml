@@ -1,44 +1,43 @@
-atomic_steps: 34522
-colrev_status:
-  CURATED_records: 1581
-  currently:
-    exclusion: {}
-    md_duplicates_removed: 1551
-    md_imported: 0
-    md_needs_manual_preparation: 62
-    md_prepared: 1499
-    md_processed: 1581
-    md_retrieved: 0
-    non_completed: 3142
-    non_processed: 1561
-    pdf_imported: 0
-    pdf_needs_manual_preparation: 0
-    pdf_needs_manual_retrieval: 0
-    pdf_needs_retrieval: 0
-    pdf_not_available: 0
-    pdf_prepared: 0
-    rev_excluded: 0
-    rev_included: 0
-    rev_prescreen_excluded: 0
-    rev_prescreen_included: 0
-    rev_synthesized: 0
-  overall:
-    md_imported: 4693
-    md_needs_manual_preparation: 4693
-    md_prepared: 4631
-    md_processed: 1581
-    md_retrieved: 4693
-    pdf_imported: 0
-    pdf_needs_manual_preparation: 0
-    pdf_needs_manual_retrieval: 0
-    pdf_not_available: 0
-    pdf_prepared: 0
-    rev_excluded: 0
-    rev_included: 0
-    rev_prescreen: 1581
-    rev_prescreen_excluded: 0
-    rev_prescreen_included: 0
-    rev_screen: 0
-    rev_synthesized: 0
-completed_atomic_steps: 10905
+atomic_steps: 19012
+completed_atomic_steps: 7803
 completeness_condition: false
+currently:
+  exclusion: {}
+  md_duplicates_removed: 1551
+  md_imported: 0
+  md_needs_manual_preparation: 62
+  md_prepared: 1499
+  md_processed: 1581
+  md_retrieved: 0
+  non_completed: 3142
+  non_processed: 1561
+  pdf_imported: 0
+  pdf_needs_manual_preparation: 0
+  pdf_needs_manual_retrieval: 0
+  pdf_needs_retrieval: 0
+  pdf_not_available: 0
+  pdf_prepared: 0
+  rev_excluded: 0
+  rev_included: 0
+  rev_prescreen_excluded: 0
+  rev_prescreen_included: 0
+  rev_synthesized: 0
+nr_curated_records: 1581
+overall:
+  md_imported: 3142
+  md_needs_manual_preparation: 3142
+  md_prepared: 3080
+  md_processed: 1581
+  md_retrieved: 4693
+  pdf_imported: 0
+  pdf_needs_manual_preparation: 0
+  pdf_needs_manual_retrieval: 0
+  pdf_not_available: 0
+  pdf_prepared: 0
+  rev_excluded: 0
+  rev_included: 0
+  rev_prescreen: 1581
+  rev_prescreen_excluded: 0
+  rev_prescreen_included: 0
+  rev_screen: 0
+  rev_synthesized: 0
