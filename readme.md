@@ -14,6 +14,7 @@ colrev environment --install geritwagner/journal-of-management-information-syste
 
 DOI resource not found:
 10.1080/07421222.2018.1523603
+
 <!-- TABLE_SUMMARY -->
 
 |TOC           |CROSSREF.bib    |DBLP.bib        |pdfs.bib        |all_merged      |
